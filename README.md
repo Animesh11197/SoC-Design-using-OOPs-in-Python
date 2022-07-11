@@ -1,1 +1,0 @@
-# SoC-Design-using-OOPs-in-Python
