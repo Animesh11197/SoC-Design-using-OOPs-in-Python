@@ -1,0 +1,48 @@
+
+         396 function calls in 0.001 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.001    0.001 <string>:1(<module>)
+        8    0.000    0.000    0.000    0.000 ALU.py:104(set_Accumulator)
+        9    0.000    0.000    0.000    0.000 ALU.py:113(AND)
+        3    0.000    0.000    0.000    0.000 ALU.py:116(OR)
+        7    0.000    0.000    0.000    0.000 ALU.py:119(NOT)
+       11    0.000    0.000    0.000    0.000 ALU.py:12(print)
+        3    0.000    0.000    0.000    0.000 ALU.py:122(XOR)
+        2    0.000    0.000    0.000    0.000 ALU.py:140(Add)
+        1    0.000    0.000    0.000    0.000 ALU.py:146(subtract)
+        1    0.000    0.000    0.000    0.000 ALU.py:163(DIV)
+        2    0.000    0.000    0.000    0.000 ALU.py:180(LOAD)
+        1    0.000    0.000    0.000    0.000 ALU.py:189(STORE)
+        9    0.000    0.000    0.001    0.000 ALU.py:196(execute)
+        2    0.000    0.000    0.000    0.000 ALU.py:273(data_bus)
+        3    0.000    0.000    0.000    0.000 ALU.py:278(add_bus)
+        9    0.000    0.000    0.000    0.000 ALU.py:302(display)
+        1    0.000    0.000    0.001    0.001 ALU.py:314(RUN)
+        1    0.000    0.000    0.000    0.000 ALU.py:316(<listcomp>)
+        9    0.000    0.000    0.000    0.000 ALU.py:42(checker)
+        9    0.000    0.000    0.000    0.000 ALU.py:48(Fetch_Decode)
+       21    0.000    0.000    0.000    0.000 _bootlocale.py:33(getpreferredencoding)
+       11    0.000    0.000    0.000    0.000 codecs.py:186(__init__)
+       11    0.000    0.000    0.000    0.000 codecs.py:214(setstate)
+       10    0.000    0.000    0.000    0.000 codecs.py:260(__init__)
+       10    0.000    0.000    0.000    0.000 codecs.py:309(__init__)
+       20    0.000    0.000    0.000    0.000 codecs.py:319(decode)
+       20    0.000    0.000    0.000    0.000 {built-in method _codecs.utf_8_decode}
+       21    0.000    0.000    0.000    0.000 {built-in method _locale.nl_langinfo}
+        1    0.000    0.000    0.001    0.001 {built-in method builtins.exec}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+       87    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       21    0.000    0.000    0.000    0.000 {built-in method io.open}
+       10    0.000    0.000    0.000    0.000 {method 'close' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       10    0.000    0.000    0.000    0.000 {method 'isnumeric' of 'str' objects}
+        9    0.000    0.000    0.000    0.000 {method 'readlines' of '_io._IOBase' objects}
+        9    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        9    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+       22    0.000    0.000    0.000    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+
+
+

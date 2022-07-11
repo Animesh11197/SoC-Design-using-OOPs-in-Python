@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+SOC/SOC.py
+SOC/__init__.py
+SOC.egg-info/PKG-INFO
+SOC.egg-info/SOURCES.txt
+SOC.egg-info/dependency_links.txt
+SOC.egg-info/top_level.txt
